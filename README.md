@@ -1,5 +1,6 @@
 # Sentiment-Analysis-on-Movie-Reviews
 ### Transformers for Sentiment Classification
+![sentiment analysis best](https://user-images.githubusercontent.com/109660074/231575943-9f405b2e-7b99-4efe-83cf-549957324236.jpg)
 
 ### **Description**
 The project that the proposal infers to is called [Movie Review Sentiment Analysis](https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/overview). The main goal is to classify the sentiment of reviews from the Rotten Tomatoes dataset. The Rotten Tomatoes movie review dataset is a corpus of movie reviews used for sentiment analysis. The main task is to label phrases on a scale of five values: negative, somewhat negative, neutral, somewhat positive, positive. There are many obstacles such as sentence negation, sarcasm, language ambiguity, and many others make the sentiment prediction more difficult. In general, this particular Sentiment Analysis is a multiclass classification task to be faced.
@@ -20,7 +21,7 @@ The sentiment labels are:
 
 At the end of the project we will summarize and compare their performance according to our requirements and metrics. 
 
-### **Modeling**
+### **Models**
 In this step we will build, train and compare the following algorithms:
 
 - BERT (Bidirectional Encoder Representation from Transformers)
